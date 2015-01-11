@@ -5,7 +5,5 @@
     <project path="kernel/google/molly" name="adt1-dev/android_kernel_google_molly" remote="github"/>
     <project path="vendor/google/molly" name="adt1-dev/android_vendor_google_molly" remote="github" />
     <project path="hardware/marvell" name="adt1-dev/android_hardware_marvell" remote="github" />
-    <project path="hardware/libhardware_legacy" name="adt1-dev/android_hardware_libhardware_legacy" remote="github" groups="pdk" />
-    <project path="external/wpa_supplicant_8" name="adt1-dev/android_external_wpa_supplicant_8" remote="github" groups="pdk" />
     
 </manifest>

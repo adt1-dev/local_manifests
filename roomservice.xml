@@ -3,7 +3,7 @@
 
     <project path="device/google/molly" name="adt1-dev/android_device_google_molly" remote="github" />
     <project path="kernel/google/molly" name="adt1-dev/android_kernel_google_molly" remote="github"/>
-    <project path="vendor/google/molly" name="adt1-dev/android_vendor_google_molly" remote="github" />
+    <project path="vendor/google" name="adt1-dev/proprietary_vendor_google" remote="github" />
     <project path="hardware/marvell" name="adt1-dev/android_hardware_marvell" remote="github" />
     
 </manifest>

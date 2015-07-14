@@ -12,7 +12,4 @@
 	<remove-project name="CyanogenMod/android_external_wpa_supplicant_8" />
 	<project path="external/wpa_supplicant_8" name="adt1-dev/android_external_wpa_supplicant_8" groups="pdk" />
 
-	<remove-project name="CyanogenMod/android_packages_apps_TvSettings" />
-	<project path="packages/apps/TvSettings" name="adt1-dev/android_packages_apps_TvSettings" />
-
 </manifest>

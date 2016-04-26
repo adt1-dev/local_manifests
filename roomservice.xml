@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
         <remove-project name="android_device_google_molly" />
-        <project path="device/google/molly" name="adt1-dev/android_device_google-1" revision="mm-tablet" remote="github" />
+        <project path="device/google/molly" name="adt1-dev/android_device_google_molly-1" revision="mm-tablet" remote="github" />
         <remove-project name="proprietary_vendor_google" />
-        <project path="vendor/google/molly" name="adt1-dev/proprietary_vendor_google-1" revision="mm-tablet" remote="github" />
+        <project path="vendor/google" name="adt1-dev/proprietary_vendor_google-1" revision="mm-tablet" remote="github" />
 </manifest>
 
 
